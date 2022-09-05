@@ -1,1 +1,3 @@
 v2 has been released, and is now in the `main` branch. Please download and use from here [https://github.com/cmdr2/stable-diffusion-ui#installation](https://github.com/cmdr2/stable-diffusion-ui#installation). Thanks!
+
+⚠️ Please use the [main branch](https://github.com/cmdr2/stable-diffusion-ui) if you are a user, and the [develop branch](https://github.com/cmdr2/stable-diffusion-ui/tree/develop) if you are planning to contribute code to this project. Thanks!
